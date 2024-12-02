@@ -11,6 +11,11 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,shebaofei.zhcs.ccb.com
 DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,longfor.com
+DOMAIN-SUFFIX,myzhiniu.com
+DOMAIN-SUFFIX,scene7.omarea.com
+
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
